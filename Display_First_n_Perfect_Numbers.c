@@ -1,7 +1,7 @@
 /*
 
 Write a program which accepts number from user that how many pefrect numbers that user want to display.
-
+ 
 Input : 3
 Output : 6  28  496
 
