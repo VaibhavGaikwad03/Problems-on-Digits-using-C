@@ -11,12 +11,11 @@ Ouput : 9
 
 int sumDigits(int iNum)
 {
-    int iSum = 0, iDigit = 0;
+    int iSum = 0;
 
     while(iNum != 0)
     {   
-        iDigit = iNum % 10;
-        iSum += iDigit;
+        iSum += (iNum % 10);
         iNum = iNum / 10;
     }
 
