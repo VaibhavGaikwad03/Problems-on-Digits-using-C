@@ -1,6 +1,6 @@
 /*
 
-Write a program which accepts number from use that how many pefrect numbers that user want to display.
+Write a program which accepts number from user that how many pefrect numbers that user want to display.
 
 Input : 3
 Output : 6  28  496
@@ -58,7 +58,6 @@ void displayPerfect(int iNPerfect)
 int main(void)
 {
     int iNo = 0;
-    BOOL bRet = FALSE;
 
     printf("Enter the number that how many pefect numbers you want to display : \n");
     scanf("%d", &iNo);
