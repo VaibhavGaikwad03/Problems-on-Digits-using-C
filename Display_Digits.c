@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+ 
 void DisplayDigits(int iNo)
 {
     int iDigit = 0;
