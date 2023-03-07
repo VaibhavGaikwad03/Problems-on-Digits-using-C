@@ -6,7 +6,7 @@ Input : 5
 Output : 9
 
 */
-
+ 
 #include<stdio.h>
 
 int sumOfOddNumbers(int iNo)
